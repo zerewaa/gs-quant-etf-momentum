@@ -112,6 +112,16 @@ Drawdown:
 
 drawdown.png
 
+## Results
+
+### Cumulative Returns
+
+![Cumulative Returns](cumulative_returns.png)
+
+### Drawdown
+
+![Drawdown](drawdown.png)
+
 ---
 
 ## Project Structure
