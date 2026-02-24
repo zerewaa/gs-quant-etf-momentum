@@ -99,20 +99,9 @@ performance_metrics.csv
 ---
 
 ## Results
-
 The strategy produces stable long-term returns with moderate drawdowns.
 
 Output charts include:
-
-Cumulative Returns:
-
-cumulative_returns.png
-
-Drawdown:
-
-drawdown.png
-
-## Results
 
 ### Cumulative Returns
 
