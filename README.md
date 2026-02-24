@@ -94,7 +94,7 @@ The following metrics are calculated:
 
 Performance metrics are stored in:
 
-outputs/tables/performance_metrics.csv
+performance_metrics.csv
 
 ---
 
@@ -106,11 +106,11 @@ Output charts include:
 
 Cumulative Returns:
 
-outputs/figures/cumulative_returns.png
+cumulative_returns.png
 
 Drawdown:
 
-outputs/figures/drawdown.png
+drawdown.png
 
 ---
 
